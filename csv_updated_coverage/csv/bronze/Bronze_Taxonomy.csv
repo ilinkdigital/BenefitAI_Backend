@@ -1,0 +1,149 @@
+ServiceType,Category,Name,NetworkProvider,Out-Of-NetworkProvider,Limitations,####
+Diagnostic test,Laboratory Tests,Complete blood count (CBC),40% coinsurance,Not covered,not provided,####
+Diagnostic test,Laboratory Tests,Blood chemistry panel,40% coinsurance,Not covered,not provided,####
+Diagnostic test,Laboratory Tests,Urinalysis,40% coinsurance,Not covered,not provided,####
+Diagnostic test,Laboratory Tests,Lipid profile (cholesterol testing),40% coinsurance,Not covered,not provided,####
+Diagnostic test,Laboratory Tests,Blood glucose testing,40% coinsurance,Not covered,not provided,####
+Diagnostic test,Laboratory Tests,"Genetic testing (e.g., for hereditary diseases)",40% coinsurance,Not covered,not provided,####
+Imaging ,Imaging Studies,"X-rays (chest X-ray, skeletal X-rays)",40% coinsurance,Not covered,"Prior authorization required for some
+outpatient imaging tests. Penalty for outof-network: no coverage.",####
+Imaging ,Imaging Studies,Computed tomography (CT) scans,40% coinsurance,Not covered,"Prior authorization required for some
+outpatient imaging tests. Penalty for outof-network: no coverage.",####
+Imaging ,Imaging Studies,Magnetic resonance imaging (MRI),40% coinsurance,Not covered,"Prior authorization required for some
+outpatient imaging tests. Penalty for outof-network: no coverage.",####
+Imaging ,Imaging Studies,"Ultrasounds (abdominal, pelvic, fetal)",40% coinsurance,Not covered,"Prior authorization required for some
+outpatient imaging tests. Penalty for outof-network: no coverage.",####
+Imaging ,Imaging Studies,Mammography (breast imaging),40% coinsurance,Not covered,"Prior authorization required for some
+outpatient imaging tests. Penalty for outof-network: no coverage.",####
+Imaging ,Imaging Studies,Bone density scans (DEXA scans),40% coinsurance,Not covered,"Prior authorization required for some
+outpatient imaging tests. Penalty for outof-network: no coverage.",####
+Diagnostic test,Cardiac Tests,Electrocardiogram (ECG or EKG),40% coinsurance,Not covered,not provided,####
+Diagnostic test,Cardiac Tests,Echocardiogram,40% coinsurance,Not covered,not provided,####
+Diagnostic test,Cardiac Tests,Stress tests (treadmill or pharmacological),40% coinsurance,Not covered,not provided,####
+Diagnostic test,Endoscopic and Colonoscopic Procedures,Upper gastrointestinal endoscopy (EGD),40% coinsurance,Not covered,not provided,####
+Diagnostic test,Endoscopic and Colonoscopic Procedures,Flexible sigmoidoscopy,40% coinsurance,Not covered,not provided,####
+Diagnostic test,Biopsies,Skin biopsy,40% coinsurance,Not covered,not provided,####
+Diagnostic test,Biopsies,Liver biopsy,40% coinsurance,Not covered,not provided,####
+Diagnostic test,Biopsies,Bone marrow biopsy,40% coinsurance,Not covered,not provided,####
+Diagnostic test,Biopsies,Prostate biopsy,40% coinsurance,Not covered,not provided,####
+Diagnostic test,Allergy Testing,Skin prick tests,40% coinsurance,Not covered,not provided,####
+Diagnostic test,Allergy Testing,Blood tests for specific IgE antibodies,40% coinsurance,Not covered,not provided,####
+Diagnostic test,Pulmonary Function Tests,Spirometry,40% coinsurance,Not covered,not provided,####
+Diagnostic test,Pulmonary Function Tests,Peak flow measurement,40% coinsurance,Not covered,not provided,####
+Diagnostic test,Pulmonary Function Tests,Lung diffusion capacity test,40% coinsurance,Not covered,not provided,####
+Diagnostic test,Sleep Studies,Polysomnography (overnight sleep study),40% coinsurance,Not covered,not provided,####
+Diagnostic test,Sleep Studies,Home sleep apnea testing,40% coinsurance,Not covered,not provided,####
+Diagnostic test,Cancer Screening Tests,Pap smear (cervical cancer screening),40% coinsurance,Not covered,not provided,####
+Diagnostic test,Cancer Screening Tests,"Colon cancer screening (colonoscopy, fecal occult blood test)",40% coinsurance,Not covered,not provided,####
+Diagnostic test,Cancer Screening Tests,Mammography (breast cancer screening),40% coinsurance,Not covered,not provided,####
+Diagnostic test,Cancer Screening Tests,Prostate-specific antigen (PSA) test,40% coinsurance,Not covered,not provided,####
+Outpatient services,Surgical Procedures,Appendectomy (removal of appendix),"Office Visit: $75 
+copayment/visit
+Deductible does not apply.
+Facility: 40% coinsurance",Not covered,not provided,####
+Outpatient services,Surgical Procedures,Hernia repair surgery,"Office Visit: $75 
+copayment/visit
+Deductible does not apply.
+Facility: 40% coinsurance",Not covered,not provided,####
+Outpatient services,Surgical Procedures,Gallbladder removal (cholecystectomy),"Office Visit: $75 
+copayment/visit
+Deductible does not apply.
+Facility: 40% coinsurance",Not covered,not provided,####
+Outpatient services,Surgical Procedures,Tonsillectomy (removal of tonsils),"Office Visit: $75 
+copayment/visit
+Deductible does not apply.
+Facility: 40% coinsurance",Not covered,not provided,####
+Outpatient services,Surgical Procedures,Cataract surgery,"Office Visit: $75 
+copayment/visit
+Deductible does not apply.
+Facility: 40% coinsurance",Not covered,not provided,####
+Outpatient services,Surgical Procedures,Arthroscopic knee surgery,"Office Visit: $75 
+copayment/visit
+Deductible does not apply.
+Facility: 40% coinsurance",Not covered,not provided,####
+Outpatient services,Surgical Procedures,Cesarean section (C-section),"Office Visit: $75 
+copayment/visit
+Deductible does not apply.
+Facility: 40% coinsurance",Not covered,not provided,####
+Outpatient services,Surgical Procedures,Hysterectomy (removal of uterus),"Office Visit: $75 
+copayment/visit
+Deductible does not apply.
+Facility: 40% coinsurance",Not covered,not provided,####
+Outpatient services,Surgical Procedures,Prostatectomy (removal of prostate gland),"Office Visit: $75 
+copayment/visit
+Deductible does not apply.
+Facility: 40% coinsurance",Not covered,not provided,####
+Outpatient services,Surgical Procedures,Mastectomy (breast removal),"Office Visit: $75 
+copayment/visit
+Deductible does not apply.
+Facility: 40% coinsurance",Not covered,not provided,####
+Outpatient services,Surgical Procedures,Coronary artery bypass graft (CABG),"Office Visit: $75 
+copayment/visit
+Deductible does not apply.
+Facility: 40% coinsurance",Not covered,not provided,####
+Outpatient services,Surgical Procedures,Hip replacement surgery,"Office Visit: $75 
+copayment/visit
+Deductible does not apply.
+Facility: 40% coinsurance",Not covered,not provided,####
+Outpatient services,Surgical Procedures,Spinal fusion surgery,"Office Visit: $75 
+copayment/visit
+Deductible does not apply.
+Facility: 40% coinsurance",Not covered,not provided,####
+Outpatient services,Surgical Procedures,Kidney stone removal (lithotripsy),"Office Visit: $75 
+copayment/visit
+Deductible does not apply.
+Facility: 40% coinsurance",Not covered,not provided,####
+Outpatient services,Surgical Procedures,"Dental surgeries (e.g., wisdom teeth extraction)","Office Visit: $75 
+copayment/visit
+Deductible does not apply.
+Facility: 40% coinsurance",Not covered,not provided,####
+Outpatient services,Surgical Procedures,"Plastic and reconstructive surgeries (e.g., breast reconstruction after mastectomy)","Office Visit: $75 
+copayment/visit
+Deductible does not apply.
+Facility: 40% coinsurance",Not covered,not provided,####
+Outpatient services,Organ Transplants,Kidney transplant,"Office Visit: $75 
+copayment/visit
+Deductible does not apply.
+Facility: 40% coinsurance",Not covered,not provided,####
+Outpatient services,Organ Transplants,Liver transplant,"Office Visit: $75 
+copayment/visit
+Deductible does not apply.
+Facility: 40% coinsurance",Not covered,not provided,####
+Outpatient services,Organ Transplants,Heart transplant,"Office Visit: $75 
+copayment/visit
+Deductible does not apply.
+Facility: 40% coinsurance",Not covered,not provided,####
+Outpatient services,Organ Transplants,Lung transplant,"Office Visit: $75 
+copayment/visit
+Deductible does not apply.
+Facility: 40% coinsurance",Not covered,not provided,####
+Outpatient services,Organ Transplants,Bone marrow transplant,"Office Visit: $75 
+copayment/visit
+Deductible does not apply.
+Facility: 40% coinsurance",Not covered,not provided,####
+Outpatient services,Cancer Treatments,Chemotherapy,"Office Visit: $75 
+copayment/visit
+Deductible does not apply.
+Facility: 40% coinsurance",Not covered,not provided,####
+Outpatient services,Cancer Treatments,Radiation therapy,"Office Visit: $75 
+copayment/visit
+Deductible does not apply.
+Facility: 40% coinsurance",Not covered,not provided,####
+Outpatient services,Cancer Treatments,Surgery for tumor removal,"Office Visit: $75 
+copayment/visit
+Deductible does not apply.
+Facility: 40% coinsurance",Not covered,not provided,####
+Outpatient services,Cancer Treatments,Immunotherapy,"Office Visit: $75 
+copayment/visit
+Deductible does not apply.
+Facility: 40% coinsurance",Not covered,not provided,####
+Outpatient services,Cancer Treatments,Targeted therapy,"Office Visit: $75 
+copayment/visit
+Deductible does not apply.
+Facility: 40% coinsurance",Not covered,not provided,####
+Diagnostic test,Imaging Studies,Mammogram,40% coinsurance,Not covered,not provided,####
+Preventive Care,Surgical Procedures,Colonoscopy,No Charge,Not covered,not provided,####
+Outpatient services,Rehabilitation services,Physical therapy,Office Visit: $75 copayment/visit Deductible does not apply. Facility: 40% coinsurance,Not covered,not provided,####
+Primar care visit,Surgical Procedures,Primar care visit,"No charge first 2 visits, then $50 copayment/visit Deductible does not apply.",Not covered,not provided,####
+Primary care visit,Chronic conditions,illness/injury,"No charge first 2 visits, then $50 copayment/visit Deductible does not apply.",Not covered,not provided,####
+Specialist visit,PCP specialities,Specialist visit,$100 copayment/visit,Not covered,not provided,####

@@ -1,0 +1,721 @@
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+       Quick Care Guide                                                             
+       Here are the most common healthcare terms and how they affect what you pay for covered services. There are
+       also examples to show how these terms fit together.                          
+                                                                                    
+       To learn more about amounts you are responsible for, visit the Covered Services section.
+                                                                                    
+        Allowed Amount                                                              
+                           The maximum amount Premera pays for a covered service.   
+        Benefit Dollar Maximum                                                      
+                           The most that Premera pays for certain benefits within a year. After the limit is
+                           met, you pay 100% of costs out of pocket.                
+                           Amounts that apply to your deductible don’t count toward your dollar maximums
+        Coinsurance                                                                 
+                           It’s a percentage of the allowed amount that you pay for the service. You start
+                           paying coinsurance after you’ve met your deductible.     
+        Copay                                                                       
+                           A fixed amount you pay for each healthcare visit or service. If the amount billed is
+        or                                                                          
+                           less than the copay, you only pay the amount billed. Only one office visit copay
+        Copayment                                                                   
+                           per provider per day will apply. If the copay amounts are different, the highest will
+                           apply. Copays apply to the out-of-pocket maximum.        
+        Cost shares                                                                 
+                           Your share of the allowed amount for covered services. Deductibles, copays, and
+                           coinsurance are all types of cost-shares. If you go out-of-network for care, the
+                           provider can charge additional amounts, except as prohibited by federal or state
+                           law.                                                     
+        Deductible                                                                  
+                           The amount you pay each year before Premera starts to pay for covered
+                           services. The deductible includes an Individual and a Family Deductible.
+                           If you and one or more of your dependents are enrolled in this plan, the family
+                           deductible will apply. If any one member satisfies the individual deductible
+                           amount, this plan will begin paying for that member’s covered services. When
+                           other members satisfy the family deductible, we will consider the family
+                           deductible to have been met. Then, this plan will begin paying for all family
+                           members’ covered services. This type of deductible is called “embedded”.
+                           Deductibles are subject to the following:                
+                           • Amounts credited toward the deductible will not exceed the allowed amount.
+                           • Amounts credited toward the deductible do not add to benefits with an annual
+                             dollar maximum.                                        
+                           • Amounts credited toward the deductible accrue to benefits with visit limits.
+                           Amounts that don’t accrue toward the deductible are:     
+                           • Amounts that exceed the allowed amount.                
+                           • Charges for excluded services.                         
+                           • Copays                                                 
+                           • If you participate in a Health Savings Account (HSA) – Drug manufacturer
+                             coupons and other forms of cost-share assistance, per Internal Revenue
+                             Service requirements.                                  
+                           There is no carry-over provision. Amounts credited to your deductible during the
+                           current calendar year will not carry forward to the next calendar year deductible.
+        In-Network                                                                  
+                           Specific providers, hospitals, or labs that Premera contracts with to provide
+        (Contracted)                                                                
+                           healthcare services to members. You typically pay less when using in-network
+                           healthcare providers. Your bills will be reimbursed at a higher percentage. In-
+                           network providers will not charge you more than the allowed amount.
+       49831WA1940001 (01-2024)           8                                         
+                                                                                    
+                                                                                    
+                                                                                    
+        Out-of-Network                                                              
+                           Services from healthcare providers and hospitals that have not contracted with
+        (Non-Contracted)                                                            
+                           Premera Blue Cross, Premera Blue Cross Blue Shield of Alaska, or the local Blue
+                           Cross Blue Shield licensee. This could mean the service will cost more or not be
+                           paid for at all by Premera. Your bills will be reimbursed at a lower percentage and
+                           you may also be required to submit the claim yourself.   
+        Out-of-Pocket Maximum                                                       
+                           The out-of-pocket maximum is the most you pay for covered services in a year
+                           before Premera pays 100% of the allowed amount. The out-of-pocket maximum
+                           includes an Individual and a Family Out-of-Pocket Maximum.
+                           However, if you get out-of-network care, you are still responsible for any charges
+                           above the allowed amount, except as prohibited by state or federal law.
+                           Expenses that do not apply toward the out-of-pocket maximum include, but not
+                           limited to:                                              
+                           • Charges above the allowed amount.                      
+                           • Services above any benefit maximum limit or durational limit.
+                           • Services not covered by this plan.                     
+                           • Services from out-of-network providers, except as prohibited by state or federal
+                             law.                                                   
+                           • Covered services that do not apply to the out-of-pocket maximum as stated in
+                             Covered Services.                                      
+                           • If you participate in a Health Savings Account (HSA) – Drug manufacturer
+                             coupons and other forms of cost-share assistance, per Internal Revenue
+                             Service requirements.                                  
+        Prior Authorization                                                         
+                           Some services must be authorized in writing before you get them, in order to be
+                           eligible for coverage. The conditions, time limits and maximum limits are
+                           described in this booklet.                               
+        Visit, day, or hour limits                                                  
+                           Some covered services have a maximum number of visits, days, or hours. After
+                           you reach this limit, you pay 100% out-of-pocket, whether or not you’ve met your
+                           deductible.                                              
+        Year                                                                        
+                           The consecutive 12-month period that starts on your health plan’s effective date.
+                           For this plan, it’s a calendar year.                     
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+       49831WA1940001 (01-2024)           9                                         
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+       Overview                                                                     
+                                                                                    
+       This plan is an Exclusive Provider Organization (EPO). This means that the plan is designed to only cover care
+       delivered by providers in your plan’s network. Your plan provides you benefits for covered services from providers
+       within the Individual Signature network. You do not need a referral for specialty care. You may self-refer to in-
+       network providers, including obstetricians, gynecologists, and pediatricians.
+       You have coverage for emergency services throughout the United States and wherever you may travel.
+       This plan makes available to you a sufficient number and types of providers to give you access to all covered
+       services in compliance with applicable Washington state regulations governing access to providers. Our provider
+       network includes hospitals, physicians, and a variety of other types of providers. See How Providers Affect Your
+       Costs for more information.                                                  
+       Copay                                                                        
+                                        In-Network Providers Out-of-Network Providers
+                                                                                    
+                                        No charge first 2 visits; then              
+         Primary Care Provider copay                        *Not covered            
+                                        $15 copay, deductible waived                
+                                                                                    
+                                                                                    
+         Specialist copay               $45 copay, deductible waived *Not covered   
+                                                                                    
+                                                                                    
+                                                                                    
+       Coinsurance                                                                  
+                                                                                    
+                                        In-Network Providers Out-of-Network Providers
+                                                                                    
+                                                                                    
+                                        30%                 *Not covered            
+                                                                                    
+       *See Benefits For Out-of-Network or Non-Contracted Providers for out-of-network services that will always be
+       covered at the in-network level of benefits.                                 
+                                                                                    
+                                                                                    
+       Deductible                                                                   
+                                        In-Network Providers Out-of-Network Providers
+                                                                                    
+                                                                                    
+         Individual deductible          $1,500              Not applicable          
+                                                                                    
+                                                                                    
+         Family deductible (embedded)   $3,000              Not applicable          
+                                                                                    
+                                                                                    
+                                                                                    
+       Out-of-Pocket-Maximum                                                        
+                                                                                    
+                                        In-Network Providers Out-of-Network Providers
+                                                                                    
+                                                                                    
+         Individual out-of-pocket maximum $6,800            Not applicable          
+                                                                                    
+                                                                                    
+                                                                                    
+       49831WA1940001 (01-2024)          10                                         
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+         Family out-of-pocket maximum   $13,600             Not applicable          
+                                                                                    
+                                                                                    
+                                                                                    
+       How  Cost Shares Work                                                        
+                                                                                    
+       Example: In-Network Office Visit                                             
+       An in-network office visit costs $120, the allowed amount for the service is $100, and your coinsurance is 20% of
+       the $100, or $20. If you’ve met your deductible, Premera pays 80% of the $100, or $80. You pay the remaining
+       $20.                                                                         
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+          Office visit Allowed amount Your coinsurance Premera pays Your total      
+           charges                                           responsibility         
+            $120         $100         $20           $80         $20                 
+                                  (20% of the allowed (80% of the                   
+                                     amount)    allowed amount)                     
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+       49831WA1940001 (01-2024)          11                                         
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+       Getting Care                                                                 
+                                                                                    
+       No ID card yet? No problem. As long as your plan date is effective, you can get care:
+          • The provider’s office can often look up your insurance and see that you’re eligible.
+          • Download the Premera mobile app to get a digital ID card.               
+            iPhone and Android users can get the app from the Apple or Google Play App Store
+                                                                                    
+          • Call Premera customer service at 1-800-607-0546 for your ID number.     
+                                                                                    
+         You can see or call   When you need              What to do                
+                                                                                    
+        Primary and specialty                     Log in to premera.com and click “Find
+              care          Routine and specialty care Care”. You can search by name, type,
+            providers                                     or location.              
+                          A visit with a provider, counselor, or Set up your account at
+                         psychiatrist without going to an office. www.premera.com/visitor/virtual-care,
+            Virtual care Have your appointment by computer, then connect any day, any time,
+                         tablet, or mobile device wherever you including weekends and holidays.
+                                   are.           Call customer service for assistance.
+                          Same-day care for medical issues Log in to premera.com and click “Find
+                         that need urgent attention but are not Care”.              
+         Urgent Care/Walk-in                                                        
+                          life threatening. Examples include, Choose "Urgent Care & Other
+              clinic                                                                
+                          rashes, flu, minor burns or cuts, x- Facilities” to search for locations
+                               rays, and lab tests.      closest to you.            
+         Emergency services Life-threatening emergency services Call 911 or go to an emergency room.
+                                                                                    
+                                                                                    
+                          Advice from a registered nurse for                        
+                                                  Call 1-800-784-9265 (open 24 hours a
+         24-Hour NurseLine illnesses like fevers, the flu, and                      
+                                                      day, seven days a week).      
+                                minor injuries.                                     
+       Important Plan Information                                                   
+       Primary Care Office Visits                                                   
+       You pay a lower office visit cost share for primary care office visits by selecting a PCP any time prior to an office
+       visit. A list of network providers including PCPs and specialists is available by contacting customer experience or
+       accessing the Premera website. Your PCP must be in the network and be one of the following provider types:
+       • Family practice physician                                                  
+       • General practice provider                                                  
+       • Geriatric practice provider                                                
+       • Gynecologist                                                               
+                                                                                    
+       • Internist                                                                  
+       • Naturopath                                                                 
+       • Nurse practitioner                                                         
+       • Obstetrician                                                               
+       • Pediatrician                                                               
+       • Physician Assistant                                                        
+                                                                                    
+       You do not need a referral from your PCP to see a specialist.                
+       We encourage you to select a PCP at the time you enroll in this plan. If you have difficulty locating an available
+       PCP, contact us and we will assign you to one of the provider types listed above who is accepting new patients.
+       49831WA1940001 (01-2024)          12                                         
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+       This provider will be your PCP, unless you decide to change to another provider. If your PCP is part of a group
+       practice, you can see any provider type listed above in that practice and pay the PCP office visit cost share.
+       You can change your PCP selection at any time by contacting us.              
+       Please call customer service for more information about selecting a PCP and to provide us with your selection.
+       Urgent care, telehealth, preventive, and specialty visits are not included. All other covered services provided by
+       your selected PCP during the primary care office visit are subject to standard cost shares. For example, if you
+       select a PCP and see that PCP for a cut that needs stitches, you will pay the PCP cost share for the office visit
+       and will pay your plan's deductible and/or coinsurance for the stitching procedure. If you do not select a PCP, your
+       office visit cost share will not be the PCP cost share amount.               
+       Allowed Amount                                                               
+                                                                                    
+       This plan provides benefits based on the allowed amount for covered services. We reserve the right to determine
+       the amount allowed for any given service or supply. The allowed amount is described below.
+       In-Network                                                                   
+       The allowed amount is the fee that we have negotiated with providers who have signed contracts with us and are
+       in your provider network.                                                    
+       Out-of-Network                                                               
+                                                                                    
+       For contracted providers the allowed amount is the fee that we have negotiated with providers who have signed
+       contracts with us.                                                           
+       For non-contracted providers and non-emergent care, the allowed amount is the least of the following (unless a
+       different amount is required under applicable law or agreement):             
+       • An amount that is no less than the lowest amount we pay for the same or similar service from a comparable
+         provider that has a contracting agreement with us.                         
+       • 125% of the fee schedule determined by the Centers for Medicare and Medicaid Services (Medicare), if
+         available.                                                                 
+       • The provider's billed charges. Note: Ground ambulances are always paid based on billed charges.
+       See Out-of-Area Care for more detail about providers outside Washington who have agreements with other Blue
+       Cross Blue Shield Licensees.                                                 
+                                                                                    
+       Non-Emergency Services Protected From Balance Billing                        
+       For these services, the allowed amount is calculated consistent with the requirements of federal or Washington
+       state law.                                                                   
+       Emergency Services                                                           
+                                                                                    
+       The allowed amount for non-participating providers will be calculated consistent with the requirements of federal
+       or Washington state law.                                                     
+       You do not have to pay amounts over the allowed amount for emergency services delivered by non-participating
+       providers or facilities.                                                     
+       Note: Non-participating ground ambulances are always paid based on billed charges.
+                                                                                    
+       If you have questions about this information, please call us at the number listed on your Premera ID card.
+       Air Ambulance                                                                
+       The allowed amount for non-participating air ambulance providers will be calculated consistent with the
+       requirements of federal law.                                                 
+       Providers Outside Washington                                                 
+                                                                                    
+       When you receive services and supplies in Clark County Washington or outside Washington. Covered services
+       and supplies for medical emergencies can be furnished by any providers that meet the following requirements.
+       • State-licensed or state-certified                                          
+       • Performing services within the scope of their license or certification     
+       If, by chance, you get emergency care from a provider that has a provider agreement with us in Alaska or the
+       local Blue Cross and/or Blue Shield Licensee through the BlueCard® Program, your out-of-pocket expenses
+                                                                                    
+       49831WA1940001 (01-2024)          13                                         
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+       may be reduced. This is because those providers accept the allowable charge for a covered service as payment
+       in full. When you receive covered emergency care from one of these in-network providers, you're responsible
+       only for any deductible, copays, or coinsurance required by this plan.       
+                                                                                    
+                                                                                    
+       How  Providers Affect Your Costs                                             
+                                                                                    
+       MEDICAL SERVICES                                                             
+       This plan is an Exclusive Provider Organization (EPO). This means that the plan is designed to only cover care
+       delivered by providers in your plan’s network. Your plan provides you benefits for covered services from providers
+       within the Individual Signature network. You do not need a referral for specialty care. You may self-refer to in-
+       network providers, including obstetricians, gynecologists and pediatricians. 
+       A list of in-network providers is available in our Individual Signature provider directory. These providers are listed
+       by geographical area, specialty and in alphabetical order to help you select a provider that is right for you.
+       The provider directory also shows which providers you can select as your PCP. You can receive the lower copay
+       amount on primary care office visit copays by selecting a designated Primary Care Provider (PCP) and notifying
+       us of your PCP selection any time prior to an office visit. If you are having difficulty choosing an available PCP,
+       contact us and we will assign a PCP to you. See Primary Care Office Visits for more information.
+       We update this directory regularly, but it is subject to change. We suggest that you call us for current information
+       and to verify that your provider, their office location, or provider group is included in the Individual Signature
+       network before you receive services.                                         
+       Individual Signature provider network directories are available any time on our website. You may also request a
+       copy of this directory by calling customer service at the number located in Contact Information or on your
+       Premera ID card.                                                             
+       In-Network Providers                                                         
+                                                                                    
+       In-network providers are networks of hospitals, physicians and other providers that are part of our Individual
+       Signature network in Washington or that are part of the local Blue Cross Blue Shield licensee. These providers
+       provide medical services at a negotiated fee. This fee is the allowed amount for in-network providers.
+       You do not need a referral from your PCP to see an in-network provider.      
+       In-network providers will not charge more than the allowed amount. This means that your portion of the charges
+       for covered services will be lower.                                          
+       Contracted Health Care Benefit Managers                                      
+                                                                                    
+       The list of Premera’s contracted Health Care Benefit Managers (HCBM) and the services they manage are
+       available at https://www.premera.com/visitor/partners-vendors and changes to these contracts or services are
+       reflected on the website within 30 business days.                            
+       Non-Participating Providers                                                  
+       Non-participating providers are either (1) providers that are not in one of the networks (out-of-network) or (2)
+       providers that do not have a contract with us (non-contracted). Except as stated in Benefits For Out-of-Network
+       or Non-Contracted Providers, or in a few specific benefits, services from these providers are not covered.
+       • Out-of-network providers. Some providers in Washington have a contract with us but are not in the Individual
+         Signature network. In cases where this plan covers services from these providers, they will not bill you for the
+         amount above the allowed amount for a covered service. The same is true for a provider that is in a different
+         network of the local Host Blue plan.                                       
+       • Non-contracted providers. There are also providers who do not have a contract with us. These providers are
+         called “non-contracted” providers in this booklet.                         
+       Benefits For Out-of-Network or Non-Contracted Providers                      
+                                                                                    
+       The following covered services and supplies provided by out-of-network or non-contracted providers will always
+       be covered:                                                                  
+       • Emergency services for a medical emergency. (See the Definitions section for definitions of these terms.) This
+         plan provides worldwide coverage for emergency services.                   
+         The benefits of this plan will be provided for covered emergency services without the need for any prior
+       49831WA1940001 (01-2024)          14                                         
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+         authorization and without regard as to whether the health care provider furnishing the services has a contract
+         with us. Emergency services furnished by a non-participating provider will be reimbursed in compliance with
+         applicable laws.                                                           
+       • Services associated with admission by an in-network provider to an in-network hospital that are provided by
+         hospital-based providers.                                                  
+       • Facility and hospital-based provider services received from a hospital that has a provider contract with us.
+       If a covered service is not available from an in-network provider, you can receive benefits for services provided by
+       an out-of-network or non-contracted provider. However, you or your in-network provider must request this before
+       you get the care. See Prior Authorization for details.                       
+       BALANCE BILLING PROTECTION                                                   
+                                                                                    
+       Non-participating providers have the right to charge you more than the allowed amount for a covered service. This
+       is called "surprise billing" or "balance billing". However, Washington state and federal law protects you from
+       balance billing for:                                                         
+       Emergency Services from a non-participating hospital, or facility, or from a non-participating provider at the
+       hospital or facility.                                                        
+       Emergency services include certain post-stabilization services you may get after you are in stable condition.
+       These include covered services provided as part of outpatient observation or during an inpatient or outpatient stay
+       related to the emergency visit, regardless of which department of the hospital you are in.
+       Non-emergency Services from a non-participating provider at an in-network hospital or outpatient surgery
+       center. If a non-emergency service is not covered under the in-network benefits and terms of coverage under your
+       health plan, then the federal and state law regarding balance billing do not apply for these services.
+       Air Ambulance                                                                
+                                                                                    
+       Your cost-sharing for non-participating air ambulance services shall be no more than if the services were provided
+       by an in-network provider. The cost sharing amount shall be counted towards the in-network deductible and the
+       in-network out of pocket maximum amount. Cost-sharing shall be based upon the lesser of the qualifying payment
+       amount (as defined under federal law) or the billed amount.                  
+       For the above services, you will pay no more than the plan's in-network cost-shares. Premera Blue Cross will
+       work with the non-participating provider to resolve any issues about the amount paid. Premera will also send the
+       plan's payments to the provider directly.                                    
+       Note: Amounts you pay over the allowed amount don’t count toward any applicable calendar year deductible,
+       coinsurance, or out-of-pocket maximum.                                       
+                                                                                    
+       Care Management                                                              
+       Care Management services work to help ensure that you receive appropriate and cost-effective medical care.
+       Your role in the Care Management process is simple, but important, as explained below.
+       You must be eligible on the dates of service and services must be medically necessary. We encourage you to call
+       customer service to verify that you meet the required criteria for claims payment and to help us identify
+       admissions that might benefit from case management.                          
+                                                                                    
+       PRIOR AUTHORIZATION                                                          
+       You must get Premera’s approval for some services before the service is performed, or you will not have
+       coverage for the service. This process is called prior authorization.        
+       There are two different types of prior authorization required:               
+                                                                                    
+       1. Prior Authorization For Benefit Coverage You must get prior authorization for certain types of medical
+          services, equipment, and for most inpatient facility stays. This is so that Premera can confirm that these
+          services are medically necessary and covered by the plan.                 
+       2. Prior Authorization To Cover Out-of-Network Providers at In-Network Cost Shares You or your in-
+          network provider must get prior authorization in order for an out-of-network provider to be covered at the
+          plan’s in-network benefit level, except for emergency services. See Exceptions To Prior Authorization For
+          Out-of-Network Providers below for more information.                      
+                                                                                    
+       49831WA1940001 (01-2024)          15                                         
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+       How Prior Authorization Works                                                
+       We will make a decision on a request for services that require prior authorization in writing within 5 calendar days
+       of receipt of all information necessary to make the decision. The response will let you know whether the services
+       are authorized or not, including the reasons why. If you disagree with the decision, you can ask for an appeal. See
+       Complaints and Appeals.                                                      
+       If your life or health would be in serious jeopardy if you did not receive treatment right away, you may ask for an
+       expedited review. We will respond in writing as soon as possible, but no more than 48 hours after we get all the
+       information we need to make a decision.                                      
+       Our prior authorization will be valid for 90 calendar days. This 90-day period depends on your continued coverage
+       under the plan. If you do not receive the services within that time, you will have to ask us for another prior
+       authorization.                                                               
+       1. Prior Authorization for Benefit Coverage                                  
+                                                                                    
+                                                                                    
+          Medical Services, Supplies or Equipment                                   
+          The plan has a list of services, equipment, and facility types that must have prior authorization before you
+          receive the service or are admitted as an inpatient at the facility. Please contact your in-network provider or
+          Premera customer service before you receive a service to find out if your service requires prior authorization.
+          • In-network providers or facilities are required to request prior authorization for the service.
+          • Out-of-network providers and facilities and facilities outside Washington and Alaska will not request
+            prior authorization for the service. You have to ask Premera to prior authorize the service.
+           If you do not ask for prior authorization, this plan will not cover your services. You will have
+           to pay the total cost of the services. These costs do not count toward your plan deductible or out-of-
+           pocket maximum.                                                          
+                                                                                    
+          Prescription Drugs                                                        
+          The plan has a specific list of prescription drugs that must have prior authorization before you get them at a
+          pharmacy. The list is on our website at premera.com. Your provider can ask for a prior authorization by faxing
+          an accurately completed prior authorization form to us. This form is also on the pharmacy section of our
+          website.                                                                  
+          If your provider does not get prior authorization, when you go to the pharmacy to get your prescription, the
+          pharmacy will tell you that you need it. You or your pharmacy should inform your provider of the need for
+          prior authorization. Your provider can fax us an accurately completed prior authorization form for review.
+          The plan may cover a small supply of the drug to allow more time for the prior authorization. The cost-shares
+          shown in Covered Services will apply. In-Network pharmacies will find out if an emergency fill is covered for
+          your drug. The authorized amount of the emergency fill will be no more than the prescribed amount, up to a
+          seven-day supply or the minimum packaging size available at the time the emergency fill is dispensed. See
+          the process for emergency fills on our website at premera.com.            
+          If an emergency fill is not allowed for your drug, you can still buy the drug before it is prior authorized, but
+          you must pay the full cost. If the drug is authorized after you bought it, you can send us a claim for
+          reimbursement. Reimbursement will be based on the allowed amount. See How Do I File A Claim? for
+          details.                                                                  
+          Sometimes, benefits for some prescription drugs may be limited to one or more of the following:
+          • A set number of days’ supply or a specific drug or drug dosage appropriate for a usual course of treatment.
+          • Certain drugs for a specific diagnosis                                  
+          • Certain drugs from certain pharmacies, or you may need to get a prescription drug from an appropriate
+            medical specialist or a specific provider                               
+          • Step therapy, meaning you must try a generic drug or a specified brand name drug first
+           • Drug synchronization, meaning the coordination of medication refills for a patient taking two or more
+            medications for a chronic condition such that the patient’s medications are refilled on the same schedule
+            for a given time period. Cost-shares are adjusted if the fill is less than the standard refill amount in
+            compliance with state law.                                              
+           These limits are based on medical standards, the drug maker’s advice, and your specific case. They are also
+           based on FDA guidelines and medical articles and papers.                 
+       49831WA1940001 (01-2024)          16                                         
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+          Exceptions to Prior Authorization for Benefit Coverage                    
+          The following services do not require prior authorization for benefit coverage, but they have separate
+          requirements:                                                             
+          • The first six visits provided by an in-network provider for rehabilitation and habilitation therapy, spinal
+            manipulative treatment or acupuncture.                                  
+          • Emergency services and emergency hospital admissions, including emergency drug or alcohol detox in a
+            hospital.                                                               
+          • Services provided under involuntary commitment statutes are covered.    
+          • Childbirth admission to a hospital, or admissions for newborns who need emergency medical care at birth.
+                                                                                    
+          Emergency and childbirth hospital admissions do not require prior authorization, but you must notify us as
+          soon as reasonably possible.                                              
+                                                                                    
+       2. Prior Authorization for Out-of-Network Provider Coverage                  
+          Generally, non-emergent care provided by out-of-network providers is covered at a lower benefit level.
+          However, you or your in-network provider may ask for a prior authorization to cover the out-of-network
+          provider at the in-network benefit level if the services are medically necessary and only available from an
+          out-of-network provider. You or your in-network provider must ask for prior authorization before you receive
+          the services. You will need to reach out to your in-network provider to have them submit the appropriate
+          forms. You may also initiate the process yourself by calling the toll-free customer support number on the
+          back of your ID card.                                                     
+          Note: It is your responsibility to get prior authorization for any services that require it when you see
+          a provider that is out-of-network. If you do not get a prior authorization, the services will not be
+          covered at the in-network benefit level. The provider can bill you directly, and you will have to pay the
+          total cost of the services. These costs do not count toward your plan deductible and out-of-pocket
+          maximum.                                                                  
+          The prior authorization request for an out-of-network provider must include the following:
+          • A statement explaining how the provider has unique skills or provides unique services that are medically
+            necessary for your care, and that are not reasonably available from an in-network provider, and
+          • Medical records needed to support the request.                          
+           If the out-of-network services are authorized, the plan will cover the service. However, in addition to the
+           cost shares, you may pay any amounts over the allowed amount if the provider does not have a
+           contract with us or the local Blue Cross and/or Blue Shield Licensee. Amounts over the allowed
+           amount do not count toward your plan deductible and out-of-pocket maximum.
+                                                                                    
+           Exceptions to Prior Authorization for Out-of-Network Providers           
+           Out-of-network providers can be covered without prior authorization for emergency services and hospital
+           admissions for a medical emergency. This includes hospital admissions for emergency drug or alcohol detox
+           or for childbirth.                                                       
+           If you are admitted to an out-of-network hospital due to an emergency condition, those services are always
+           covered. We will continue to cover those services until you are medically stable and can safely transfer to an
+           in-network hospital. Emergency services furnished by a non-participating provider will be reimbursed in
+           compliance with applicable laws.                                         
+           If you choose to stay in the out-of-network hospital after you are medically stable and can safely transfer to
+           an in-network hospital, you may be subject to additional charges which may not be covered by your plan,
+           including charges above the allowed amount.                              
+       CLINICAL REVIEW                                                              
+                                                                                    
+       Clinical review is a summary of medical and payment policies. These are used to make sure that you get
+       appropriate and cost-effective care. Our policies include:                   
+       • Accepted clinical practice guidelines                                      
+       • Industry standards accepted by organizations like the American Medical Association (AMA)
+       • Other professional societies                                               
+       49831WA1940001 (01-2024)          17                                         
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+       • Center for Medicare and Medicaid Services (CMS)                            
+       You can find our medical policies at premera.com.                            
+       PERSONAL HEALTH SUPPORT PROGRAMS                                             
+                                                                                    
+       Premera personal health support programs are designed to help make sure your health care and treatment
+       improve your health. You will receive individualized and integrated support based on your specific needs. These
+       services could include working with you and your provider to ensure appropriate and cost-effective medical care,
+       to consider effective alternatives to hospitalization, or to support both of you in managing chronic conditions.
+       Your participation in a treatment plan through our personal health support programs is voluntary. To learn more
+       about the programs, contact customer service at the number listed on your Premera ID card.
+       CONTINUITY OF CARE                                                           
+       How Continuity of Care Works: You may qualify for Continuity of Care (COC) under certain circumstances when
+       a provider leaves your health plan’s network or your employer transitions to a new carrier. This will depend on
+       your medical condition at the time the change occurs. COC is a process that provides you with short-term,
+       temporary coverage at in-network levels for care received by a non-participating provider.
+       COC applies in these situations:                                             
+                                                                                    
+       • The contract with your provider ends.                                      
+       • The benefits covered for your provider change in a way that results in a loss of coverage.
+       • The contract between your company and us ends and that results in a loss of coverage of your provider.
+       How you qualify for Continuity of Care: If a primary care provider contract is terminated without cause,
+       continuing care will be provided according to the details included in the member's notice of the contract
+       termination. Additionally, you may qualify for continuing care from non-primary care providers if you are in an
+       "active relationship" or treatment with your provider. This means that you have had three or more visits with the
+       provider within the past 12 months and you meet one or more of these conditions with respect to a terminated
+       provider or facility:                                                        
+       • Undergoing a course of treatment for a serious and complex condition.      
+       • Undergoing a course of institutional or inpatient care.                    
+       • Are scheduled for a non-elective surgery, including receipt of postoperative care.
+       • Are pregnant and undergoing a course of treatment for the pregnancy.       
+                                                                                    
+       • Are receiving treatment for a terminal illness.                            
+       We will notify you at least 30 days prior to your provider’s termination date. When a termination for cause provides
+       us less than 30 days notice, we will make a good faith effort to assure that a written notice is provided to you
+       immediately.                                                                 
+       You can request continuity of care by contacting customer service. See Contact Information.
+       If you are approved for continuity of care, you will get continuing care from the terminating provider until the earlier
+       of the following:                                                            
+       • The 90th day after we notified you that your Primary Care Provider (PCP)'s contract ended.
+                                                                                    
+       • The day after you complete the active course of treatment entitling you to continuity of care.
+       If you are pregnant and eligible for continuity of care you can continue with your provider throughout your
+       pregnancy, plus 8 weeks postpartum care.                                     
+       Continuity of care does not apply if your provider:                          
+       • No longer holds an active license.                                         
+       • Relocates out of the service area.                                         
+       • Goes on leave of absence.                                                  
+                                                                                    
+       • Is unable to provide continuity of care because of other reasons.          
+       • Does not meet standards of quality of care.                                
+       When continuity of care ends, non-emergent care from the provider is no longer covered. If we deny your request
+       for continuity of care, you may appeal the denial. See Complaints and Appeals.
+                                                                                    
+                                                                                    
+       49831WA1940001 (01-2024)          18                                         
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+       Covered  Services                                                            
+                                                                                    
+       This section talks about the benefits that are available with this plan and your costs. They are listed in alphabetical
+       order.                                                                       
+       Services of these benefits are available when they meet all of these requirements:
+       • It must be given in connection with the prevention or diagnosis and treatment of a covered illness, disease, or
+         injury.                                                                    
+       • The service takes place in a medically necessary setting. This plan covers inpatient care only when you cannot
+         get the services in a less intensive setting.                              
+                                                                                    
+       • Must not be excluded from coverage under this plan.                        
+       • The expense for it must be incurred while you’re covered under this plan.  
+       • It must be given by a provider who’s performing services within the scope of their license or certification.
+       • It must meet the standards set in our medical and payment policies. The plan uses policies to administer the
+         terms of the plan.                                                         
+       • Some types of services may be limited or excluded under this plan.         
+                                                                                    
+       Related Benefit Information                                                  
+       • To learn more about terms like medical necessity and provider, see Definitions.
+       • See Exclusions and Limitations for a complete description of limitations and exclusions.
+       • This plan complies with state and federal regulations about diabetes medical treatment coverage. See
+         Preventive Care, Prescription Drugs, Home Medical Equipment (HME) Orthotics, Prosthetics and
+         Supplies, and the Foot Care benefits.                                      
+                                                                                    
+       Medical services must meet the standards set in our medical and payment policies. The plan uses policies to
+       administer the terms of the plan. Our policies are available to you and your provider at premera.com or by calling
+       customer service.                                                            
+       Medical policies are generally used to further define medical necessity or investigational status for specific
+       procedures, drugs, biologic agents, devices, level of care or services.      
+                                                                                    
+       Payment policies define our provider billing and payment rules. Our policies are based on accepted clinical
+       practice guidelines and industry standards accepted by organizations like the American Medical Association
+       (AMA), other professional societies and the Center for Medicare and Medicaid Services (CMS).
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+       49831WA1940001 (01-2024)          19                                         
+                                                                                    
+                                                                                    
