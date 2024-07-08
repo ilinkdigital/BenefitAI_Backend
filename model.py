@@ -89,7 +89,6 @@ def format_output(input_data):
             "Chat_History": "",
         }
     
-
     partings = [
         "thanks", "bye", "goodbye", "good bye", "thank you", "thnks","thnkx", "thanks for your help", "thanks for help"
     ]
@@ -98,8 +97,6 @@ def format_output(input_data):
                 "Answer": "No problem! Let me know if you have any further queries.", 
                 "Chat_History": []}
     
-
-
     # Retrieve other parts of the input data
     question = input_data.get('question')
     answer = input_data.get('answer')
@@ -142,8 +139,18 @@ def format_output(input_data):
     # print("Added source", sources)
 
 
-    sources= [source.split("\\")[-1] if "\\" in source else source.split("//")[-1] for source in sources]
-    sources= list(set(sources))
+    # sources= [source.split("\\")[-1] if "\\" in source else source.split("//")[-1] for source in sources]
+    # sources= list(set(sources))
+
+    # base_url = "https://ilinksystemsinc449.sharepoint.com/:f:/s/DataScienceProjects/EqLfawBKKQhCiDf3DAXRGxgBCv1Fdr23xjORMfD06yb5Ew?e=e6M2TY/"  #  actual base URL of document
+    # base_url= "https://ilinksystemsinc449.sharepoint.com/:x:/s/DataScienceProjects/EVoJmWdPqdlKmC0ssMiEILYBwYrpuTtjOXyO5-E2JHB54A?e=9aF7DV/"
+    base_url= "https://www.premera.com/documents/045605_2024.pdf"
+    sources = [{"name": source.split("\\")[-1] if "\\" in source else source.split("//")[-1], "url": f"{base_url}"} for source in sources]
+    # sources = [{"name": source.split("\\")[-1] if "\\" in source else source.split("//")[-1], "url": f"{base_url}{source.split('/')[-1]}&download=1"} for source in sources]
+    # print('S1: ', sources)
+    sources = [dict(t) for t in {tuple(d.items()) for d in sources}]  # Remove duplicates
+    # print('S1: ', sources)
+    # print('')
 
     # Construct the formatted output
     formatted_output = {
@@ -154,6 +161,7 @@ def format_output(input_data):
     }
 
     return formatted_output
+
 
 
 # print("Output", format_output(dic3))

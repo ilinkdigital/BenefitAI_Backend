@@ -14,6 +14,9 @@ import uvicorn
 import json
 import logging
 
+from feedback import chat_storage_table_client, store_chat_log, update_chat_log_with_feedback
+
+
 app = FastAPI()
 
 config = configparser.ConfigParser()
@@ -171,7 +174,7 @@ async def login(MemberEmail: str, Password: str):
 #         raise e  # Re-raise HTTPExceptions to avoid catching them as general exceptions
 #     except Exception as e:
 #         raise HTTPException(status_code=500, detail="Invalid Username or password")
-
+    
 
 
 @app.get("/get_members/")
@@ -205,7 +208,7 @@ async def User_Registration(MemberId: str, PlanId: str):
         
         # If no user is found, raise HTTPException
         if len(entities)<=0:
-            raise HTTPException(status_code=404, detail="Member does not found")
+            raise HTTPException(status_code=404, detail="Member was not found")
         
         for entity in entities:
 
@@ -223,42 +226,42 @@ async def User_Registration(MemberId: str, PlanId: str):
         raise HTTPException(status_code=500, detail=str(e))
 
 
-class Question(BaseModel):
-    collection_name: str
-    question: str
+# class Question(BaseModel):
+#     collection_name: str
+#     question: str
 
-@app.post("/Chat")
-async def ask_question(question: Question):
-    result = query_collection(question.collection_name, question.question)
-    output= format_output(result)
-    # output= json.dumps(output)
-    return JSONResponse(content=output)
+# @app.post("/Chat")
+# async def ask_question(question: Question):
+#     result = query_collection(question.collection_name, question.question)
+#     output= format_output(result)
+#     # output= json.dumps(output)
+#     return JSONResponse(content=output)
 
 
 
-def chat_storage_table_client():
-    try:
-        account_name = config.get('Azure', 'account_name')
-        account_key = config.get('Azure', 'account_key')
-        chat_table = config.get('Azure', 'chat_table')
+# def chat_storage_table_client():
+#     try:
+#         account_name = config.get('Azure', 'account_name')
+#         account_key = config.get('Azure', 'account_key')
+#         chat_table = config.get('Azure', 'chat_table')
         
-        if not account_name or not account_key or not chat_table:
-            raise ValueError("Missing Azure Storage configuration.")
+#         if not account_name or not account_key or not chat_table:
+#             raise ValueError("Missing Azure Storage configuration.")
 
-        connection_string = (f"DefaultEndpointsProtocol=https;"
-                                f"AccountName={account_name};"
-                                f"AccountKey={account_key};"
-                                "EndpointSuffix=core.windows.net")
+#         connection_string = (f"DefaultEndpointsProtocol=https;"
+#                                 f"AccountName={account_name};"
+#                                 f"AccountKey={account_key};"
+#                                 "EndpointSuffix=core.windows.net")
         
-        table_service_client = TableServiceClient.from_connection_string(conn_str=connection_string)
-        table_client = table_service_client.get_table_client(table_name=chat_table)
+#         table_service_client = TableServiceClient.from_connection_string(conn_str=connection_string)
+#         table_client = table_service_client.get_table_client(table_name=chat_table)
 
-        # logger.info(f"Successfully connected to Azure Table Storage: {chat_table}")
-        return table_client
+#         # logger.info(f"Successfully connected to Azure Table Storage: {chat_table}")
+#         return table_client
     
-    except Exception as e:
-        # logger.error("Error connecting to Azure Table Storage: %s", e)
-        raise HTTPException(status_code=500, detail=f"Error connecting to Azure Table Storage: {str(e)}")
+#     except Exception as e:
+#         # logger.error("Error connecting to Azure Table Storage: %s", e)
+#         raise HTTPException(status_code=500, detail=f"Error connecting to Azure Table Storage: {str(e)}")
 
 
 def get_plan_id(MemberEmail):
@@ -269,7 +272,7 @@ def get_plan_id(MemberEmail):
         entities = list(table_client.query_entities(filter_query))
         # print("Entities: ", len(entities))
         if len(entities)<=0:
-            raise HTTPException(status_code=404, detail="Member does not found")
+            raise HTTPException(status_code=404, detail="Member was not found")
         
         for entity in entities:
             user_details = {"MemberEmail": entity["MemberEmail"], 
@@ -284,37 +287,16 @@ def get_plan_id(MemberEmail):
         raise HTTPException(status_code=500, detail="Error retrieving member PlanId")
 
 
-# print("get_plan_id details", get_plan_id('piyush@gmail.com'))
 
-def store_chat_log(session_id,MemberEmail, Chat_ID, plan_id, question, answer, chat_history, sources):
-    try:
-        table_client = chat_storage_table_client()
+import asyncio
+from model import memory 
 
-        if not isinstance(sources, list):
-            sources = [sources]
-        RowKey=str(uuid.uuid4())
-        chat_log_entity = {
-            'PartitionKey': 'chatsession',
-            'RowKey': RowKey,  
-            'SessionID': str(session_id),
-            'MemberEmail': MemberEmail,
-            'ChatID': str(Chat_ID),
-            'PlanId': str(plan_id),
-            'Question': question,
-            'Answer': answer,
-            'chat_history':json.dumps(chat_history),
-            'Sources': json.dumps(sources)  
-        }
-
-        # logger.info(f"Attempting to store entity: {chat_log_entity}")
-
-        table_client.create_entity(entity=chat_log_entity)
-        # logger.info(f"Entity stored successfully: {chat_log_entity}")
-
-    except Exception as e:
-        # logger.error("Error storing chat log: %s", e)
-        raise HTTPException(status_code=500, detail=f"Error storing chat log: {str(e)}")
-
+#Clear memory function
+async def clear_memory(memory, client_address: str, session_id: str, timeout: int = 120):
+    await asyncio.sleep(timeout)
+    logger.info(f"Clearing memory for {client_address}, Session ID: {session_id} due to inactivity.")
+    # await websocket.close()
+    memory.clear()
 
 
 @app.websocket("/ws/chat")
@@ -333,20 +315,23 @@ async def websocket_endpoint(websocket: WebSocket):
         collection_name =member_email['collection_name']
         plan_id =member_email['collection_name']
        
-        # print("Member Email", MemberEmail )
+
         details= get_plan_id(MemberEmail)
-        # print("datails",details )
-        # print("Type of details",details )
+
         email2 = details["MemberEmail"]
         plan_id2 = details["PlanID"]
-        # print("datails",email2 )
-        # print("datails",plan_id2 )
+
         if (MemberEmail != email2) and (plan_id.lower() != plan_id2.lower()):
             await websocket.send_text(json.dumps({"error": "Invalid MemberEmail"}))
             return
 
         while True:
+
+            timer_task = asyncio.create_task(clear_memory(memory, client_address, member_email, 120)) #Starts the timer
             data = await websocket.receive_text()
+            timer_task.cancel()  # Cancel the timer task if a new message is received
+
+            # data = await websocket.receive_text()
             
             data= json.loads(data)
 
@@ -354,19 +339,9 @@ async def websocket_endpoint(websocket: WebSocket):
             session_id= data['session_id']
             Chat_ID= data['Chat_ID']
 
-            # print("Question", query)
-            # print("Question", session_id)
-            # print("Question", Chat_ID)
-
             # logger.info(f"Message from {client_address}: {data}")
             result = query_collection(collection_name, query)
-            # print("type of result1", type(result))
-            # print("Initial result", result)
-            # result= json.loads(result)
-            # print("type of result2 ", type(result))
             output = format_output(result)
-            # output = json.loads(output)
-            # print("Complete formatted Output", output)
             chat_history = output.get('Chat_History',[])
             
             # print("CHat history: ",chat_history )
@@ -377,21 +352,42 @@ async def websocket_endpoint(websocket: WebSocket):
                 "sources": output.get('Sources', [])
                 }
             await websocket.send_text(json.dumps(response))
-            
-            # Store the chat log in Azure Table Storage with detailed exception handling
+                        # Store the initial chat log in Azure Table Storage without rating and feedback
             try:
+                Query_ID=str(uuid.uuid4()).replace('-', '')[:6] 
+
                 store_chat_log(
-                    session_id, MemberEmail, Chat_ID, plan_id, output.get('Question', ''), output.get('Answer', ''),
-                    output.get('Chat_History', []), output.get('Sources', [])
-                    )
+                    session_id, MemberEmail, Chat_ID, Query_ID, plan_id, output.get('Question', ''), output.get('Answer', ''),
+                    output.get('Chat_History', []), output.get('Sources', []), Rating=None, feedback=None
+                )
+                logger.info('Data injested without feedback and rating')
             except Exception as e:
-                print(f"Error storing chat log for session {session_id}: {e}")
+                logger.info(f"Error storing initial chat log for session {session_id}: {e}")
                 await websocket.send_text(json.dumps({"error": "Failed to store chat log"}))
+
+            fdbck_input = await websocket.receive_text()
+            fdbck_input= json.loads(fdbck_input)
+            Rating= fdbck_input['Rating']
+            feedback= fdbck_input['feedback']
+            
+            # Update the chat log with feedback and rating in Azure Table Storage
+            try:
+                # store_chat_log(
+                #     session_id, MemberEmail, Chat_ID, plan_id, None, None, None, None, Rating, feedback
+                # )
+                update_chat_log_with_feedback(session_id, Query_ID, Rating, feedback)
+                await websocket.send_text(json.dumps({"Status": "Feedback has been submitted successfully"}))
+                logger.info('Data injested with feedback and rating')
+            except Exception as e:
+                logger.info(f"Error updating chat log for session {session_id}: {e}")
+                await websocket.send_text(json.dumps({"error": "Failed to update chat log"}))
+    
     
     except WebSocketDisconnect:
-        print(f"WebSocket disconnected: {client_address}, Session ID: {session_id}")
+        logger.info(f"WebSocket disconnected: {client_address}, Session ID: {session_id}")
     except Exception as e:
-        print(f"Unexpected error: {e}")
+        logger.info(f"Unexpected error: {e}")
+
 
 
 
@@ -463,67 +459,6 @@ def format_chat_history(user_chat_history):
 
 
 
-# def format_chat_history(user_chat_history):
-#     formatted_chat_history = {'chat_history': []}
-    
-#     for chat_json in user_chat_history:
-#         member_email = chat_json['MemberEmail']
-#         chat_id = chat_json['ChatID']
-#         timestamp = chat_json['Timestamp']
-
-#         # Create chat ID entry if it doesn't exist
-#         if chat_id not in formatted_chat_history['chat_history']:
-#             formatted_chat_history['chat_history'][chat_id] = {'chat_history': []}
-
-#         # Create chat history entry
-#         chat_history_entry = {
-#             'question': chat_json.get('Question', ''),
-#             'answer': chat_json.get('Answer', ''),
-#             'timestamp': timestamp,
-#             'sources': ast.literal_eval(chat_json.get('Sources', '[]'))
-#         }
-
-#         # Add chat history entry to the chat ID
-#         formatted_chat_history['chat_history'][chat_id].append(chat_history_entry)
-
-#     return formatted_chat_history
-
-
-
-
-
-
-# def format_chat_history(user_chat_history):
-#     formatted_chat_history = {}
-#     for chat_json in user_chat_history:
-#         member_email = chat_json['MemberEmail']
-#         session_id = chat_json['SessionID']
-#         plan_id = chat_json['PlanId']
-#         Timestamp = chat_json['Timestamp']
-
-#         # Create user entry if it doesn't exist
-#         if member_email not in formatted_chat_history:
-#             formatted_chat_history[member_email] = {}
-
-#         # Create session entry if it doesn't exist
-#         if session_id not in formatted_chat_history[member_email]:
-#             formatted_chat_history[member_email][session_id] = {'plan_id': plan_id, 'chat_history': []}
-
-#         # Create chat history entry
-#         chat_history_entry = {
-#             'question': chat_json.get('Question', ''),
-#             'answer': chat_json.get('Answer', ''),
-#             'Timestamp': Timestamp,
-#             'Sources': ast.literal_eval(chat_json.get('Sources', '[]'))
-#         }
-
-#         # Add chat history entry to the session
-#         formatted_chat_history[member_email][session_id]['chat_history'].append(chat_history_entry)
-
-#     return formatted_chat_history
-
-
-
 @app.get("/chat_history/{MemberEmail}")
 async def chat_history(MemberEmail: str):
     try:
@@ -563,7 +498,7 @@ async def chat_history(MemberEmail: str):
         raise HTTPException(status_code=500, detail=f"Error retrieving chat history: {str(e)}")
 
 if __name__ == "__main__":
-    uvicorn.run("main:app", port=8000, reload=True, ws_ping_timeout=None)
+    uvicorn.run("main:app", ws_ping_timeout=None)
 
 
 
